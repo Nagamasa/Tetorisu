@@ -1,6 +1,8 @@
 #game-field {
     border: solid 1px #000000;
+    background-color: #FFF;
 }
 body {
     text-align: center;
+    background-color: #cfeff8;
 }
