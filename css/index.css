@@ -12,4 +12,13 @@ h1 {
     height: 50px;
     color: #05FBFF;
     background-color: #FFF;
+    margin-top: 80px;
 }
+.fuwafuwa {
+    animation: fuwafuwa 3s infinite;
+}
+@keyframes fuwafuwa {
+    0% { transform:translateY(0px); }
+    50% { transform:translateY(50px); }
+    100% { transform:translateY(0px); }
+} 
